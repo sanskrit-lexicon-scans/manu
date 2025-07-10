@@ -1,13 +1,19 @@
-# manu
-Scanned images for **Lois de Manou** with notes by *Loiseleur Deslongchamps*, 1830
 
-Used as a link target for the literary source references.
-"MANU'S Gesetzbuch in der Ausg. von LOISELEUR DESLONGCHAMPS&#13;&#10;(GILD. Bibl. 289)."
+## Mānava Dharmaśāstra
 
-for dictionaries pwg, pw, pwkvn, sch, mw
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/73/
 
-sample urls:
-* By adhyaya,shloka: https://sanskrit-lexicon-scans.github.io/manu/?3,5
-* By (pdf) page: https://sanskrit-lexicon-scans.github.io/manu/?page=8
+PDF source:  https://www.digitale-sammlungen.de/en/view/bsb10251095
+
+    license: https://rightsstatements.org/page/NoC-NC/1.0/
+
+Title: Lois de Manou with notes by Loiseleur Deslongchamps, 1830
+
+## An app
+provides access in two forms
+
+- adhyāya 1-12 ,verse
+  - Example: https://sanskrit-lexicon-scans.github.io/manu/?3,5
+- By (external pdf) page
+  - Example: https://sanskrit-lexicon-scans.github.io/manu/?page=8
 
